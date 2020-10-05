@@ -1,0 +1,24 @@
+.container {
+    margin-top: 20px;
+}
+
+div {
+    padding: 5px;
+}
+
+img {
+    height: 200px !important;
+    overflow: hidden;
+}
+
+#select {
+    padding: 3px;
+}
+
+label {
+    padding: 3px;
+}
+
+h1 {
+    text-align: center;
+}
